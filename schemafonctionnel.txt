@@ -1,0 +1,19 @@
+1: créer fichier "repertoire.txt" (min. 10 contacts)
+
+2: menu principal
+
+3: fonction ajoutercontact : entrée valeur x3 : -nom
+                                               -prénom
+                                               -un nombre : numéro de tel
+                                               -(image pour le contact)
+
+4: fonction affichercontact : reprendre les trois valeurs : +interface graphique
+
+5: fonction lirecontact : entrée valeur : numéro de ligne, retourne les trois valeurs associées
+
+6: fonction rechercher : entrée valeur (nom, prénom ou valeur du numéro de téléphone) : afficher contacts associés aux valeurs entrées*
+
+7: fonction affichertout : interface avec tous les contacts
+
+8: fonction suprrimerligne(numero) : entrée valeur (numéro de ligne) : supprime toutes les données associées à ce numéro
+
